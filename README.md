@@ -9,6 +9,7 @@ This is an Hospital management system that allows users to create, update, and d
 - [Entities](#entities)
 - [Repositories](#repositories)
 - [Services](#services)
+- [PDF Table](#Added the postman collection)
 
 ## Controllers
 
