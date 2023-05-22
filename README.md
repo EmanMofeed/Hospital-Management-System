@@ -12,6 +12,8 @@ This is an Hospital management system that allows users to create, update, and d
 - [PDF Table](#PDF)
 - [UML](#UML)
 
+-- Note: Added the postman collection to the repo 
+
 ## Controllers
 
 ### PatientController
@@ -84,7 +86,6 @@ This is an Hospital management system that allows users to create, update, and d
 ## PDF Table 
 https://drive.google.com/file/d/1Z13KMgOw4InX4ILu8XH9c_fzHF_pph-7/view?usp=sharing
 
-### Added the postman collection to the repo 
 
 ## UML
 
