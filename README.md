@@ -80,7 +80,7 @@ This is an Hospital management system that allows users to create, update, and d
   - `deletePatientById(id)`: Delete a patient by ID.
 
 ##PDF for the Table 
-[embed]https://drive.google.com/file/d/1Z13KMgOw4InX4ILu8XH9c_fzHF_pph-7/view?usp=sharing[/embed]
+https://drive.google.com/file/d/1Z13KMgOw4InX4ILu8XH9c_fzHF_pph-7/view?usp=sharing
 
 ### Added the postman collection 
 
